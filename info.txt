@@ -1,4 +1,0 @@
-starting with the no of data we have 
-then starting with their datatype 
-in this model we satrted with counting the duration of time the no of flight travels (i.e line:16)
-determining the null values we have in our datasets
